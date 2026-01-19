@@ -1,0 +1,18 @@
+{
+  "window_title_substring": "Path of Exile",
+  "monitor_region": {
+    "left": 428,
+    "top": 282,
+    "width": 838,
+    "height": 394
+  },
+  "desired_outcomes": [
+    ""
+  ],
+  "poll_interval": 0.1,
+  "ocr_lang": "eng",
+  "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "scale": 2,
+  "alert_cooldown": 0,
+  "screenshot_interval": 5
+}
